@@ -1,0 +1,12 @@
+name: TransferUI
+api: [3.0.0]
+version: 1.0.0
+author: Drama_Lvl1
+main: Drama_Lvl1\TransferUI\Main
+
+commands:
+  transferui:
+    description: Transfering you per UI
+    permissions: transferui.use
+    aliases: 
+    - tui
